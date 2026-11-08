@@ -2,4 +2,4 @@
 The most user-focused, open source platform based around the W65C02 microprocessor.
 The idea revolves around giving the user full freedom around the computer's structure. From the software all the way down to the wiring itself.
 
-This allows the user to practice electronics and the mechanisms of a working computer in an innovative way with a hands-on learning experience.
+This allows the user to practice electronics and inner workings of a computer in an innovative way with a hands-on learning experience.
